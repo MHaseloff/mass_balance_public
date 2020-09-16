@@ -4,6 +4,7 @@ channels:
 dependencies:
   - numpy
   - xlrd
+  - xlsxwriter
   - appmode
   - IPython
   - ipywidgets

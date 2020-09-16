@@ -3,7 +3,11 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - IPython.display
+  - ipywidgets
+  - seaborn
   - psutil
+  - __future__
   - toolz
   - matplotlib
   - dill

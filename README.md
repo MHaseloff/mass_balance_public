@@ -1,12 +1,11 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MHaseloff/mass_balance/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MHaseloff/mass_balance_public/master)
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/MHaseloff/mass_balance/master
+https://mybinder.org/v2/gh/MHaseloff/mass_balance_public/master
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
